@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Muhammad Naufal Rachfian Djamhur",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "Naufal Djamhur",
+    image: "/me.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Software Engineer",
-    bio: "Intended to become better T-Shaped Software Engineer, currently magician @tokopedia, love to share anything in my software engineering journey!",
+    bio: "Opinionated Engineer, currently magician @tokopedia, love to share anything in my software engineering journey!",
     email: "naufalrdj@gmail.com",
     linkedin: "rdj007",
     github: "rachfiandj07",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-naufalrdj.com",
+    title: "Your Code Craftsman",
     description: "welcome to morethan-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "rachfiandj07/morethan-naufalrdj.com",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
