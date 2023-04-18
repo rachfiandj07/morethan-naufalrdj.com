@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Your Code Craftsman",
+    title: "🧑‍💻 Your Code Craftsman",
     description: "welcome to morethan-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
