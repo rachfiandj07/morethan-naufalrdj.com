@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Naufal Djamhur",
     image: "/me.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Software Engineer",
-    bio: "Opinionated Engineer, currently magician @tokopedia, love to share anything in my software engineering journey!",
+    bio: "Opinionated Engineer, thriving to became 1% engineer in the nearly-future, love to share anything in my software engineering journey!. Sometimes in Indonesia 🇮🇩/ 🇸🇬 Singapore",
     email: "naufalrdj@gmail.com",
     linkedin: "rdj007",
     github: "rachfiandj07",
@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion", "Naufal Djamhur", "Djamhur", "Muhammad Naufal", "Rachfian"],
+    keywords: ["Blog", "Website", "Notion", "Naufal Djamhur", "Djamhur", "Muhammad Naufal", "Rachfian", "naufalrdj", "naufaldjamhur", "rachfiandjamhur", "muhammadnaufalrachfiandjamhur", "muhammad naufal rachfian djamhur", "Muhammad Naufal Rachfian Djamhur"],
   },
 
   // notion configuration (required)
